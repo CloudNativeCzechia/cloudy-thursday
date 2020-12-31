@@ -1,4 +1,4 @@
-# What's with the cloud show
+# Cloudy Thursday show
 
 is the weekly source of the cloud-native news and interesting discussion about current topics.
 
