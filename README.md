@@ -27,6 +27,8 @@ If you want to contribute please open an [issue](https://github.com/CloudNativeC
 You can either suggest the topic that interests you or you can propose to be a co-host for the episode and discuss a
 particular topic with us.
 
+You can also jump to the [discussions](https://github.com/CloudNativeCzechia/cloudy-thursday/discussions) where you can ask a question, ask for help or just discuss what is on you mind. Do not hesitate to tell us your thought on what you want to see and what not.
+
 ---
 
 2020 [Cloud Native Czechia](https://cloudnative.cz/en)
